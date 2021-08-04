@@ -5,7 +5,9 @@ Private Repo for the Ironhack project "Bootcamps"
 Collaborative Project from Ironhack students:
 
 Felipe: https://www.linkedin.com/in/felipedeavilagranja/
+
 Guilherme: https://www.linkedin.com/in/guilherme-torres-pereira/
+
 Lucie
 
 ## Overview
